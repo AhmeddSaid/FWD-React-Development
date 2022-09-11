@@ -1,0 +1,55 @@
+Program Components:-
+
+Technical Content: This contains content related to the specialization you selected,
+as well as Agile fundamentals to be able to work in modern tech teams efficiently.
+All of this content will be available in the Udacity classroom for you to access during the program.
+
+Careers Projects: This enables you to receive career coaching
+by professional career coaches available for you on slack.
+You will also get personalized reviews for your CV, Cover letter,
+LinkedIn and online profiles. In addition,
+we are hosting live weekly careers webinars
+that we recommend you attend to prepare you for the job market
+and provide you with the required skills to land your dream job.
+This will set you up for success when it’s time for you to start job seeking.
+
+1- Introduction to React Fundamentals:
+
+- What is React?
+  - "A JavaScript library for building user interfaces."
+
+- MERN Stack
+  - MongoDB
+  - Node.js 
+  - Express
+  - React
+
+- Why React?
+  - Ease Of Use
+  - Reusable Components
+  - Declarative
+
+- Course Outline
+  - Why React?
+    - Why React Was Built
+    - Compositional Model
+    - Declarative Code
+    - React Is Just JavaScript
+  - Rendering UI With React
+    - Building UI With JSX
+    - create-react-app
+    - Composing With Components
+  - State Management
+    - Data With Props
+    - Stateless Components
+    - Managing State
+    - Controlled Components
+  - Hooks
+    - Why Hooks
+    - useEffect
+    - Additional Hooks
+  - Routing
+    - Single Page Applications
+    - Routing And Navigation
+    - Component Paths
+    
